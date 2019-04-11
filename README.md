@@ -25,5 +25,7 @@ Once all the data is ready, I joined salary and location dataset. Then, I found 
 You may find the visualization below:<br>
 ![Screenshot](salary_map.png)<br>
 <br>
+Alternatively, you may <a hred="https://jacquessham.github.io/ds_salary_opt_viz/">interact with the map</a>.
+<br>
 For the plot, I used the code on <a href="https://plot.ly/python/scatter-plots-on-maps/">Plotly<a><br>
 All the steps I mentioned in this section are done in Viz.py
